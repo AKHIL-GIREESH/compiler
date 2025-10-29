@@ -1,0 +1,6 @@
+x = a + b;
+y = x;
+z = x + c;
+w = a + b;
+t = z + x;
+u = w + x;
